@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Taiepa Development Team GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/taiepa/THSN/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# THIS GITPAGE IS UNDER CONSTRUCTION!!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Taiepa Social Network
+Taiepa Social Network is a small network built by a collaborative force.
+We are proud of our code this far, and we are looking for people who want
+to contribute to this project as well as joining us as we start up!
 
-### Markdown
+### Taiepa Hidden Social Network
+Taiepa Hidden Social Network is built on the same frame as TSN, only tweaked
+to run under TOR Network, as a .onion website.. This opens for users to be
+completely anonymous and can publish just about anything they want.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Looking for hosting partners.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/taiepa/THSN/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Taiepa Development Team Contact Information
+If you want to contribte?
+The XNet IRC Network - [https://txin.pro/](https://txin.pro/)  
